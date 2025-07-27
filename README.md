@@ -92,7 +92,3 @@ Feel free to explore and modify it with proper credit.
 ## 🙋‍♂️ Author
 Md. Rasel Rahman  
 Graduate, Department of Computer Science & Engineering – RUET
-
----
-
-Let me know if you’d like to include Makefile support, FPGA test photos, or simulation instructions.
